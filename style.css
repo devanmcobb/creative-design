@@ -128,6 +128,7 @@ html {
 	text-shadow: .1rem .1rem .2rem #ddd, -.1rem -.1rem .2rem #ddd;
 }
 /* End of Section 1 Styles */
+
 /* Section 2 Styles */
 .section-2 {
 	width: 100%;
@@ -341,6 +342,9 @@ img[alt="team-member-img"] {
 	height: .1rem;
 	background: #fff;
 }
+/* End of Section 3 Styles */
+
+/* Section 4 Styles */
 
 .section-4 {
 	width: 100%;
@@ -454,7 +458,9 @@ img[alt="form-img"]:hover {
 	background: #32e7ff;
 }
 
-/* Responsive */
+/* End of Section 4 Styles */
+
+/* Responsiveness */
 @media (max-width: 1400px) {
 	.floating-bg {
 		top: -120vw;
@@ -627,3 +633,5 @@ img[alt="form-img"]:hover {
 		right: 2rem;
 	}
 }
+
+/* End of Responsiveness */
