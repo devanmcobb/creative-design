@@ -22,10 +22,10 @@ This project is a design definitely with new startup in mind. The landing page i
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| White         | ![#fff](https://via.placeholder.com/10/333?text=+) #fff|
-| Turquoise Blue| ![#32e7ff](https://via.placeholder.com/10/fff?text=+) #32e7ff|
-| Carrot Orange | ![#f08e0f](https://via.placeholder.com/10/000?text=+) #f08e0f|
-| Darkgray      | ![#aaa](https://via.placeholder.com/10/a79a2d?text=+) #aaa |
+| White         | ![#fff](https://via.placeholder.com/10/fff?text=+) #fff|
+| Turquoise Blue| ![#32e7ff](https://via.placeholder.com/10/32e7ff?text=+) #32e7ff|
+| Carrot Orange | ![#f08e0f](https://via.placeholder.com/10/f08e0f?text=+) #f08e0f|
+| Darkgray      | ![#aaa](https://via.placeholder.com/10/aaa?text=+) #aaa |
 
 
 ## Screenshots
